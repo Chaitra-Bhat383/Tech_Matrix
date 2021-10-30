@@ -1,5 +1,2 @@
 streamlit==1.1.0
-pandas==0.24.2
-numpy==1.19.2
-scikit-learn==0.24.2
 yfinance==0.1.64
